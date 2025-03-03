@@ -1,0 +1,58 @@
+no menu COMPRAS
+-> Comprador  -> (Botao +)
+-> Cartao de credito  -> (Botao +)
+-> Categoria  -> (Botao +)
+
+no menu Ver Dividas
+-> adicionar (Botao +)
+
+no menu ver Receber
+-> adicionar (Botao +)
+
+no formulario de despesas
+-> conta de origem  -> -> adicionar (Botao +)
+-> categoria -> adicionar (Botao +)
+
+no formulario Receitas
+-> conta -> adicionar (Botao +)
+
+no formulario de transacoes
+-> conta -> adicionar (Botao +)
+
+na lista Banco
+-> adicionar (Botao +)
+
+na lista de compradores
+-> adicionar (Botao +)
+
+no relatorio de transacoes
+-> ao mostrar  o tipo() depois do - colocar a categoria
+
+no relatorio de faturas 
+-> somar os valores abaixo de cada fatura
+
+dividarAPagarLista -> adicionar botao pagar(que indicara com qual conta pagar)
+
+Lista toDo
+ao clickar em excluir apenas inativar por X dias
+Rotina --> se id_categoria == 1
+a lista padrao (se id_categoria != 1)
+
+colocar icones nos relatorios (alterar)(excluir)(adicionar) (...)
+
+banner acima com dicas diarias
+
+cria relatorio aonde mostras as dividas (cartao + despesas)
+
+categoria por usuarios , apos criar login de usuarios
+
+criar tela de login
+configurar sessions e logout
+
+separar arquivo config em varios(sql)(Cartao de credito)(Transacoes) ( toDoList) (usuarios)
+
+
+Anotacoes???
+
+Agenda???
+
